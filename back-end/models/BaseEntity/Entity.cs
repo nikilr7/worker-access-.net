@@ -1,4 +1,4 @@
-﻿namespace Back_end.models;
+﻿namespace Back_end.Models;
 
 [Serializable]
 public abstract class Entity : IEquatable<Entity>

@@ -9,10 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8CD9EE64-0CB0-59BD-FDB1-86779C21DC9E}|Back-end.csproj|c:\\users\\nikil\\source\\repo\\worker-access-.net\\back-end\\models\\baseentity\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CD9EE64-0CB0-59BD-FDB1-86779C21DC9E}|Back-end.csproj|solutionrelative:models\\baseentity\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CD9EE64-0CB0-59BD-FDB1-86779C21DC9E}|Back-end.csproj|c:\\users\\nikil\\source\\repo\\worker-access-.net\\back-end\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CD9EE64-0CB0-59BD-FDB1-86779C21DC9E}|Back-end.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,22 +28,9 @@
               "RelativeDocumentMoniker": "models\\Worker.cs",
               "ToolTip": "C:\\Users\\nikil\\Source\\repo\\worker-access-.net\\back-end\\models\\Worker.cs",
               "RelativeToolTip": "models\\Worker.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T20:03:02.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\nikil\\Source\\repo\\worker-access-.net\\back-end\\models\\Admin.cs",
-              "RelativeDocumentMoniker": "models\\Admin.cs",
-              "ToolTip": "C:\\Users\\nikil\\Source\\repo\\worker-access-.net\\back-end\\models\\Admin.cs",
-              "RelativeToolTip": "models\\Admin.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T19:57:48.537Z",
+              "WhenOpened": "2026-03-12T19:32:04.052Z",
               "EditorCaption": ""
             },
             {
@@ -58,7 +41,7 @@
               "RelativeDocumentMoniker": "models\\BaseEntity\\Entity.cs",
               "ToolTip": "C:\\Users\\nikil\\Source\\repo\\worker-access-.net\\back-end\\models\\BaseEntity\\Entity.cs",
               "RelativeToolTip": "models\\BaseEntity\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T19:31:01.373Z",
               "EditorCaption": ""
