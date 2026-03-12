@@ -1,0 +1,27 @@
+{
+  "name": "worker-access-.net",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:back-end": "cd back-end && dotnet run",
+    "dev:front-end": "cd front-end && npm run dev",
+    "dev": "concurrently \"npm run dev:back-end\" \"npm run dev:front-end\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikilr7/worker-access-.net.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nikilr7/worker-access-.net/issues"
+  },
+  "homepage": "https://github.com/nikilr7/worker-access-.net#readme",
+  "dependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
